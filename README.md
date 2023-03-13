@@ -1,4 +1,4 @@
-# Compositex Node Demo
+# Compositex Node Template
 
 bundle complex Compositex Node code via esbuild
 
